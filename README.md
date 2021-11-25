@@ -1,6 +1,6 @@
 ## SMS
 
-This repository contains the code used in our paper: SMS: An Efficient Source Model Selection Framework in Model Database
+This repository contains the code used in our paper: An Efficient Source Model Selection Framework in Model Database
 
 We upload all the source code about SMS in three folders, i.e., Image Classification, Text Classification, and Image Regression. We also provide an experimental case in the folder Exp-Case.
 
